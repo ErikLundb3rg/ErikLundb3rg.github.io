@@ -1,0 +1,4 @@
+[2026-08-16T18:06:54.973Z] GET http://localhost:8743/lists/ → 200 (13ms, 674B)
+[2026-08-16T18:06:54.996Z] GET http://localhost:8743/style.css → 200 (3ms, 1980B)
+[2026-08-16T18:07:31.463Z] GET http://localhost:8743/lists/films/ → 200 (1ms, 634B)
+[2026-08-16T18:07:31.466Z] GET http://localhost:8743/style.css → 304 (1ms, ?B)
