@@ -1,5 +1,5 @@
 ---
-title: AddisCoder - The best way to spend a summer as a CS student
+title: AddisCoder 2026
 date: 2026-09-20
 ---
 
