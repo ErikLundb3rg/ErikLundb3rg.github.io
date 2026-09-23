@@ -65,6 +65,9 @@ pre code { background: none; padding: 0; }
 .writing-list li { margin: 0.8rem 0; display: flex; gap: 1.5rem; align-items: baseline; }
 .writing-list .date { font-size: 0.85rem; color: #7a6e61; white-space: nowrap; flex-shrink: 0; }
 hr { border: none; border-top: 1px solid #c8bfaf; margin: 2rem 0; }
+img { max-width: 100%; height: auto; }
+figure { margin: 1.5rem 0; }
+figcaption { font-size: 0.82rem; color: #7a6e61; margin-top: 0.4rem; font-style: italic; }
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #c8bfaf; font-size: 0.85rem; color: #7a6e61; }
 """
 
@@ -181,6 +184,7 @@ def build():
 
     # Post pages
     (PUBLIC / "posts").mkdir()
+    post_images = [f for f in POSTS.iterdir() if f.suffix.lower() in {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"}]
     for post in posts:
         md.reset()
         body_html = md.convert(post["body"])
@@ -189,6 +193,8 @@ def build():
         dest = PUBLIC / "posts" / post["slug"]
         dest.mkdir()
         (dest / "index.html").write_text(page(post["title"], content, nav), encoding="utf-8")
+        for img in post_images:
+            shutil.copy2(img, dest / img.name)
 
     # Standalone pages (root *.md)
     for p in pages:
