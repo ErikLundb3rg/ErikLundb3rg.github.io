@@ -82,8 +82,6 @@ We also tried Tere Siga (raw beef) for lunch one day, walked away just fine.
 
 Beyond Ethiopian food, Addis has a massive variety of options. The biggest surprise was the Chinese food: there are both local adaptations and completely authentic spots where you can find proper hand-pulled Lanzhou beef noodles.
 
-- picture LZN Noodles
-
 Another regular favorite was a Yemeni restaurant we kept going back to, and an Indian restaurant called Chile's.
 
 Then there is the coffee. Since coffee originates in Ethiopia, it is a huge part of daily life. It tastes like coffee back home, just a lot better and way stronger. Getting coffee is often an entire sit-down ritual: small ceramic cups, tiny wooden stools, and smoking incense on charcoal burners. We'd often have it in the cafeteria after lunch in such a setting.
