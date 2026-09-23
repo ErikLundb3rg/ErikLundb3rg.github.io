@@ -120,12 +120,12 @@ While the experience as a whole was amazing, it wasn't always easy. Ethiopia is 
 - Digestion roulette.
 - Having to keep safety in mind. Although do note Addis in general felt safe. But you should be wary of your belongings and not walk alone at night.
 - No truly consistent internet connection at the hotel or through sim card.
-- General exhaustion. Between the teaching schedule and Addis itself, the pace is intense (in the best way).
+- General exhaustion. Between the teaching schedule and Addis itself, the pace is intense.
 - Paying a shared 100 USD bill for a dinner while the largest cash denomination in ethiopia is 1.5 USD.
 
 I also learned a lot more than I expected. Teaching when students are actively trying to poke holes in your explanations forces you to actually understand what you're talking about. Back home in Sweden, being a TA meant following a fixed manual. Here, because the professors swapped out every week while we stayed, we were the ones actually steering the labs, writing problem sets, and deciding what worked.
 
-Seeing kids who had barely touched a computer a month earlier write dynamic programming solutions was unreal. Doing that alongside a fantastic crew in Addis was a ton of fun and beats rotting at a corporate desk for the summer.
+Seeing kids who had barely touched a computer a month earlier write dynamic programming solutions was unreal. Doing that alongside a fantastic crew in Addis beats rotting at a corporate desk.
 <figure>
   <img src="lab-1.JPG">
   <figcaption>Lab 1 (out of 6) group picture</figcaption>
